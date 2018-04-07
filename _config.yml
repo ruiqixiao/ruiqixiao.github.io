@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://ruiqi-xiao.github.io/
+url: https://ruiqixiao.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,7 +79,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:  
   type: git  
-  repo: https://github.com/ruiqi-xiao/ruiqi-xiao.github.io
+  repo: https://github.com/ruiqixiao/ruiqixiao.github.io
   branch: master
 
 jsonContent:
