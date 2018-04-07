@@ -81,6 +81,8 @@ deploy:
   type: git  
   repo: https://github.com/ruiqixiao/ruiqixiao.github.io
   branch: master
+  name: ruiqixiao
+  email: 386922728@qq.com
 
 jsonContent:
     meta: false
