@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ruiqi77
+title: 石樱桃
 subtitle:
 description:
 keywords:
@@ -79,7 +79,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:  
   type: git  
-  repo: https://github.com/ruiqixiao/ruiqixiao.github.io
+  repo: https://github.com/ruiqi-xiao/ruiqi-xiao.github.io
   branch: master
   name: ruiqixiao
   email: 386922728@qq.com
